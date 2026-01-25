@@ -10,7 +10,7 @@ https://www.loom.com/share/5a37053c507442eb91598efe53952e16
 7) Sprite - https://www.loom.com/share/458929eb9d204896b359a2a9ea5525da
 
 
-<footer>
+<!-- <footer>
   <div class="container footer-container">
 
     <div class="wrap">
@@ -24,4 +24,4 @@ https://www.loom.com/share/5a37053c507442eb91598efe53952e16
     </div>
 
   </div>
-</footer>
+</footer> -->
